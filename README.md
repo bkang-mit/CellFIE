@@ -18,3 +18,7 @@ This section provides codes for 1) Matching Pursuit Deconvolution 2) Cell Profil
 
 Detailed description of each code is provided in src_image_analysis/README.md
 
+### Data availability
+```subnetwork_html``` folder contains neuron-spcific PCSF output subnetworks where each Cluster_XX matches enriched pathway in Table S3. 
+```network_inputs``` folder contains files needed to run PCSF
+```example_image_data``` folder contains sample image file for demonstration. We are currently working with SSPsYGene Consortium to desposit raw, intermediate, and processed image outputs. 
