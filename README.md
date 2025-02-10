@@ -10,9 +10,11 @@ This repo contains codes used for CellFIE manuscript. "src_network_analysis" fol
 
 ### Section 1: Network Analysis
 This section provides codes for 1) Parsing and Preprocessing Prize and Interactome 2) Cell type specific weight adjustment and Omics Integrator Grid Search 3) Post-processing and filtering of network results 4) Clustering and pathway enrichment analysis
+
 Detailed description of each code is provided in src_network_analysis/README.md
 
 ### Section 2: Image Analysis
 This section provides codes for 1) Matching Pursuit Deconvolution 2) Cell Profiler Feature Extraction 3) Barcode Calling with QC 4) Single-cell morphological fingerprint analysis and 5) neuronal arborization analysis.
+
 Detailed description of each code is provided in src_image_analysis/README.md
 
