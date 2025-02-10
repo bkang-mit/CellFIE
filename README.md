@@ -8,8 +8,11 @@ This repo contains codes used for CellFIE manuscript. "src_network_analysis" fol
 2. src_image_analysis: create and activate conda environment with imlab2.yml
 3. image_preprocessing: follow a separate repo linked [here](https://github.com/fraenkel-lab/image-preprocessing) to perform image-preprocessing (Registration & Cell Pose segmentation)
 
-### Part 1: Network Analysis
+### Section 1: Network Analysis
+This section provides codes for 1) Parsing and Preprocessing Prize and Interactome 2) Cell type specific weight adjustment and Omics Integrator Grid Search 3) Post-processing and filtering of network results 4) Clustering and pathway enrichment analysis
+Detailed description of each code is provided in src_network_analysis/README.md
 
-### Part 2: Image Analysis
-Overview: This part of repo performs 1) Matching Pursuit Deconvolution 2) Cell Profiler Feature Extraction 3) Barcode Calling with QC 4) Single-cell morphological fingerprint analysis and 5) neuronal arborization analysis
+### Section 2: Image Analysis
+This section provides codes for 1) Matching Pursuit Deconvolution 2) Cell Profiler Feature Extraction 3) Barcode Calling with QC 4) Single-cell morphological fingerprint analysis and 5) neuronal arborization analysis.
+Detailed description of each code is provided in src_image_analysis/README.md
 
