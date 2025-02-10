@@ -4,6 +4,6 @@
 
 ```3_1_Inspect_and_Filter_CellSpecificNetworks.ipynb```: Load all ranodmization grid search results and select optimal hyperparameter. For each cell type network, input files for GSEA (gene sets) are generated. Cell type specificity metrics are evaluated with outputs of GSEA (see R script in part 3_2 and 3_3 below), related to Figure 2B
 
-```3_2_FGSEA_R.ipynb``` ```3_3_FGSEA_R_PrizeSet.ipynb```: R scripts used to perform GSEA using fGSEA package. 
+```3_2_FGSEA_R.ipynb``` ```3_3_FGSEA_R_PrizeSet.ipynb```: R scripts used to perform GSEA using fGSEA package. Related to Figure 2B, S1
 
 ```4_Clustering_pathway_enrichment_Network_visualization.ipynb```: Performs Louvain Clustering to obtain subnetworks and gProfiler enrichment analysis to annotate pathways. Related to Figures 2C-E
