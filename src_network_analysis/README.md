@@ -1,0 +1,3 @@
+```1_Prepare_Prize_Inputs_and_Interactome.ipynb```: Prepares input prize file for OmicsIntegrator, including parsing from HD genetics and Drosophila data, calculating cell type enrichment score. This code also generates input interactome file with cell type specificity score. 
+```2_cortex_celltype_specific_OmicsIntegrator_GridSearch.py```: Takes input prizes and interactome file to generate cell type naive and specific networks for each cell type. It performs grid search over selected hyperparameter ranges and calculates various metrics for final network selection 
+```3_1_Inspect_and_Filter_CellSpecificNetworks.ipynb```: Load all ranodmization grid search results and select optimal hyperparameter 
