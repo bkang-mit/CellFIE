@@ -4,7 +4,7 @@
 This repo contains codes used for CellFIE manuscript. "src_network_analysis" folder contains codes used to generate networks and their related analysis and "src_image_analysis" folder contains codes related to image preprocessing and analysis
 
 ### Conda Environment Setup
-1. src_network_analysis: create and activate conda environment with networks.yml
+1. src_network_analysis: create and activate conda environment with oi.yml
 2. src_image_analysis: create and activate conda environment with imlab2.yml
 3. image_preprocessing: follow a separate repo linked [here](https://github.com/fraenkel-lab/image-preprocessing) to perform image-preprocessing (Registration & Cell Pose segmentation)
 
