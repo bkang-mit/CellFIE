@@ -1,0 +1,26 @@
+channel_number,cycle_number,marker_name,Filter,excitation_wavelength,emission_wavelength,Bandwidth,ch_index,CellProfiler,Description,CellPaint-Like,CellHealth,FirstRecommendation,SecondRecommendation
+1,0,DNA_0,DAPI,405,445,46,0,1,Nuclei,1,1,1,1
+2,1,NWS,GFP,488,521,38,1,0,Procode,0,0,0,0
+3,1,VSVG,RFP,561,594,43,2,0,Procode,0,0,0,0
+4,1,FLAG,Cy5,637,698,77,3,0,Procode,0,0,0,0
+5,2,HSV,GFP,488,521,38,1,0,Procode,0,0,0,0
+6,2,C,RFP,561,594,43,2,0,Procode,0,0,0,0
+7,2,S,Cy5,637,698,77,3,0,Procode,0,0,0,0
+8,3,Ollas,GFP,488,521,38,1,0,Procode,0,0,0,0
+9,3,GFAP,RFP,561,594,43,2,0,Glial Marker,0,0,0,0
+10,3,NeuN,Cy5,637,698,77,3,1,"Neuronal Marker, development",1,0,1,1
+11,4,pRPS6,GFP,488,521,38,1,1,"Ribosome, active translation",1,1,1,1
+12,4,RANGAP1,RFP,561,594,43,2,1,Nuclear envelope protein,1,0,1,1
+13,4,NFKB,Cy5,637,698,77,3,1,p65,0,1,1,0
+14,5,TOM20,GFP,488,521,38,1,1,Mito,1,0,1,1
+15,5,LAMP1,RFP,561,594,43,2,1,Lysosome,1,0,1,1
+16,5,4HNE,Cy5,637,698,77,3,0,Oxidative Stress Marker,0,1,0,0
+17,6,TDP43,GFP,488,521,38,1,1,"RNA binding protein, ALS",0,1,1,1
+18,6,G3BP1,Cy5,637,698,77,3,1,"Stress Granules, ALS, HD",0,1,1,1
+19,7,GM130,GFP,488,521,38,1,1,cis-golgi marker,1,0,1,0
+20,7,Calnexin,RFP,561,594,43,2,0,"ER, antibody",1,0,0,0
+21,7,Golgin97,Cy5,637,698,77,3,1,trans-golgi marker,1,0,1,0
+22,8,SYTO,GFP,514,538,38,1,1,"RNA, soma segmentation mask",1,0,1,1
+23,9,ER,GFP,488,521,38,1,1,"ER, cell paint dye",1,0,1,1
+24,9,AGP,RFP,561,594,43,2,1,"Actin, Golgi, Plasma Membrane",1,0,1,1
+25,9,Catalase,Cy5,637,698,77,3,0,Catalase antibody,1,0,0,0
