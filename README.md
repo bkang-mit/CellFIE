@@ -1,7 +1,7 @@
-# CellFIE: Cell-intrinsic pathway discovery framework with Functional, In-situ profiling Experiments
+# CellPHIE: Cell-intrinsic pathway discovery framework with Functional, In-situ profiling Experiments
 
 ### Overview
-This repo contains codes used for CellFIE manuscript. "src_network_analysis" folder contains codes used to generate networks and their related analysis and "src_image_analysis" folder contains codes related to image preprocessing and analysis
+This repo contains codes used for CellPHIE manuscript. "src_network_analysis" folder contains codes used to generate networks and their related analysis and "src_image_analysis" folder contains codes related to image preprocessing and analysis
 
 ### Conda Environment Setup
 1. src_network_analysis: create and activate conda environment with oi.yml
